@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
-/**
+//HW3.1
+/*
 template <typename T>
 class Matrix {
 public:
@@ -79,7 +80,7 @@ public:
                 result(col, row) = (*this)(row, col);
             }
         };
-        */
+*/
         //HW3.2
 /*
 template<int N, int K>
